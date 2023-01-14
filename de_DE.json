@@ -1,0 +1,21 @@
+{
+  "name": "Deutsch",
+  "prefix": "§eProjectX §9»§r ",
+  "locale": "de_DE",
+  "contributors": ["NetureCrafter"],
+  
+  "values": {
+    "message.noPerms": "{PREFIX} §cDu hast keine Berechtigung, diesen Befehl zu verwenden!",
+    "message.providePlayer": "{PREFIX} §cGebe einen Spielernamen ein!",
+    "message.useOnlyNumbers": "{PREFIX} §cBenutze nur Zahlen!",
+    "message.playerNotFound": "{PREFIX} §cDieser Spieler wurde nicht gefunden!",
+    
+    "coinSystem.checkMoney": "{PREFIX} §3{1} §ahat §3{2} §aCoins!",
+    "coinSystem.removeMoney": "{PREFIX} §3{1} §aCoins wurden erfolgreich dem Spieler §3{2} §aentfernt!",
+    "coinSystem.addMoney": "{PREFIX} §3{1} §aCoins wurden erfolgreich dem Spieler §3{2} §ahinzugefügt!",
+    "coinSystem.setMoney": "{PREFIX} §3{1} §aCoins wurden erfolgreich dem Spieler §3{2} §agesetzt!",
+    
+    "ui.button.back": "§cZurück",
+    "ui.button.close": "§cSchließen"
+  }
+}
