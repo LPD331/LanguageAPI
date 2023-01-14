@@ -1,0 +1,13 @@
+{
+  "name": "English",
+  "prefix": "§eProjectX §9»§r ",
+  "locale": "en_US",
+  "contributors": ["NetureCrafter"],
+  
+  "values": {
+    "message.noPerms": "{PREFIX} §cYou don't have permission to use this command!",
+    
+    "ui.button.back": "§cBack",
+    "ui.button.close": "§cClose"
+  }
+}
